@@ -16,5 +16,3 @@
   - name: Firewalld restart
     command: firewall-cmd --reload
 
-  - name: echo
-    command: echo "Finish"
